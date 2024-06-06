@@ -4,6 +4,7 @@ public class array_1d_strings
 {
 	public static String remdup(String str)
 	{
+		// program
 		String name=str;
 		int los=name.length();
 		String res="";
